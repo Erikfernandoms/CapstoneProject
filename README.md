@@ -1,2 +1,2 @@
-# Space X Capstone Project - IBM
+#Capstone Project - IBM
 # 
